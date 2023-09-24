@@ -1,2 +1,1 @@
-# gex
-gex - regex for luau
+# Gex - Regex for LuaU
